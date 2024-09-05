@@ -1,4 +1,4 @@
-# Healthcare Inventory Optimization Using Predictive Analytics
+#Inventory Optimization Using Predictive Analytics
 
 ## Overview
 This project focuses on optimizing healthcare inventory by leveraging **machine learning algorithms** in Python to predict future inventory needs. The goal is to provide a reliable system for forecasting inventory demands and helping businesses minimize overstock and understock situations.
